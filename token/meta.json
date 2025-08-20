@@ -7,7 +7,6 @@
   "website": "https://aimothernode.io",
   "twitter": "https://x.com/aimothernode",
   "discord": "https://discord.gg/yourcode",
-  "registry": "https://cdn.jsdelivr.net/gh/iLiviu92/aiMotherNode@main/meta.json",
   "standards": ["ICRC-1", "ICRC-2", "ICRC-3"],
   "tags": ["AI", "Web3", "ICP", "DAO", "DeFi"],
 
