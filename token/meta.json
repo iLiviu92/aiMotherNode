@@ -1,0 +1,26 @@
+{
+  "name": "aiMotherNode",
+  "symbol": "NODMI",
+  "decimals": 8,
+  "description": "aiMotherNode (NODMI) is a fixed supply token on the Internet Computer. Total supply is capped at 10,000,000 NODMI, with allocations to treasury and community development. The project focuses on AI + Web3 integrations and continuous ecosystem upgrades.",
+
+  "logo": "https://cdn.jsdelivr.net/gh/iLiviu92/aiMotherNode@main/aiMotherNode_logo_final.png",
+  "website": "",
+  "twitter": "",
+  "discord": "",
+  "documentation": "",
+  "updates": "",
+
+  "tags": [
+    "icp",
+    "icrc1",
+    "icrc2",
+    "icrc3",
+    "ai",
+    "web3",
+    "token"
+  ],
+
+  "registry_version": "1.0.0",
+  "last_updated": "2025-08-20"
+}
