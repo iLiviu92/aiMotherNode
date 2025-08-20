@@ -1,34 +1,12 @@
 {
-  "version": "v1.0.0",
+  "version": "1.0.0",
   "name": "aiMotherNode",
   "symbol": "NODMI",
   "decimals": 8,
-  "supply": 10000000,
-  "description": "aiMotherNode (NODMI) is a fixed-supply token (10M) on the Internet Computer, designed for AI-powered ecosystems and future DAO governance.",
+  "description": "aiMotherNode (NODMI) is a fixed-supply ICRC-1/2 token on ICP. Treasury-backed, upgradeable metadata registry, designed for ethical transparency and Web3 adoption.",
   "logo": "https://cdn.jsdelivr.net/gh/iLiviu92/aiMotherNode@main/aiMotherNode_logo_final.png",
-
-  "websites": {
-    "official": "https://aimothernode.io",
-    "docs": "https://aimothernode.io/docs"
-  },
-
-  "socials": {
-    "twitter": "https://x.com/aimothernode",
-    "discord": "https://discord.gg/yourcode",
-    "telegram": "https://t.me/aimothernode"
-  },
-
-  "governance": {
-    "dao_ready": false,
-    "treasury_allocation": "7,000,000 NODMI",
-    "dao_future_plan": "Planned for future upgrade once ecosystem matures."
-  },
-
-  "changelog": [
-    {
-      "version": "v1.0.0",
-      "date": "2025-08-20",
-      "changes": "Initial release of aiMotherNode metadata"
-    }
-  ]
+  "website": "https://aimothernode.io",
+  "twitter": "https://x.com/aimothernode",
+  "discord": "https://discord.gg/yourcode",
+  "registry": "https://cdn.jsdelivr.net/gh/iLiviu92/aiMotherNode@main/token/meta.json"
 }
